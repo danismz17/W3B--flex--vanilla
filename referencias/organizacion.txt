@@ -1,0 +1,21 @@
+1- Estructura con mediaquerrys
+1b - normalize.css
+2- Nombres de clases e ID
+3- Dividir Secciones
+4- copiar el mismo tipo de fuente que el ejemplo
+
+las fuentes son: 
+
+Poppins,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"
+
+
+LA WEB
+https://shuffle.dev/preview?project=0e2ab52df12553ca7a420557545c1dae6635a465&page=index.html&screen=top&iframe=1
+
+https://shuffle.dev/editor?project=0e2ab52df12553ca7a420557545c1dae6635a465&tutorial=1
+
+https://shuffle.dev/components/all/flex/headers
+
+https://shuffle.dev/editor/theme/general?project=e7f423dfc447e991fcb04b9081a9dd142a2be677&tutorial=1
+
+https://bootstrapshuffle.com/es/classes/colors/link-secondary
