@@ -241,6 +241,8 @@ header>nav {
   border-radius: 0.5rem;
   border: none;
   color: var(--blanco);
+	width: 200px;
+	margin-top: 5px;
 }
 
 .portada-boton-tipo2 {
@@ -250,6 +252,10 @@ header>nav {
   border-radius: 0.5rem;
   border: 1px solid var(--gris);
   color: var(--negro);
+	
+	
+	width: 200px;
+	margin-top: 5px;
 }
 
 
