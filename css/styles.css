@@ -1065,6 +1065,7 @@ header>nav {
     display: flex;
     flex-direction: column;
     font-family: 'Poppins', sans-serif;
+	  margin-top: 80px;
   }
 
   .portada-text-container{
@@ -1287,6 +1288,7 @@ header>nav {
     width: 100%;
     height: auto;
     padding: 0px;
+	  
     display: flex;
     flex-direction: column;
     font-family: 'Poppins', sans-serif;
